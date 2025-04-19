@@ -323,7 +323,7 @@ def extract_text_from_image_url(image_url: str) -> str:
     # 初始化 OpenAI 客户端
     client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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")
+    api_key=<your_OpenRouter_API_KEY_here>)
 
     # 构造请求消息
     messages = [{"role": "user","content": 
