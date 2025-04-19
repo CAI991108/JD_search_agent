@@ -99,6 +99,19 @@ Bot: 🔍 Searching JD.com... Found 3 options!
 
 <br>
 
+### 📸 Demo Screenshots
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="/assets/demo1.jpg" alt="Demo 1 - Product Search" width="400">
+  <img src="/assets/demo2.jpg" alt="Demo 2 - Comparison Table" width="400">
+</div>
+
+<details>
+<summary>📷 Click to see image descriptions</summary>
+
+- **Left**: Real-time product search interface  
+- **Right**: Interactive comparison table with purchase links
+</details>
 
 
 
