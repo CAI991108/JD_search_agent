@@ -6,6 +6,10 @@
 
 Your smart shopping companion for JD.com, powered by multimodal generative AI! 🚀
 
+🤗 For more details breakdown and implementation,please refer to our [Kaggle Notebook](https://www.kaggle.com/code/zijincai/jd-search-agent)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" width="20"> ]([https://kaggle.com](https://www.kaggle.com/code/zijincai/jd-search-agent))
+
+
 ## ✨ Key Features
 
 - **🤖 Intelligent Product Search**  
@@ -99,18 +103,23 @@ Bot: 🔍 Searching JD.com... Found 3 options!
 
 <br>
 
-### 📸 Demo Screenshots
+**📸 Demo Screenshots**
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="/assets/demo1.jpg" alt="Demo 1 - Product Search" width="400">
-  <img src="/assets/demo2.jpg" alt="Demo 2 - Comparison Table" width="400">
+  <img src="/assets/demo1.jpg" alt="Demo 1 - Product Search" width="800">
 </div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="/assets/demo2.jpg" alt="Demo 2 - Comparison Table" width="800">
+</div>
+
+
 
 <details>
 <summary>📷 Click to see image descriptions</summary>
 
-- **Left**: Real-time product search interface  
-- **Right**: Interactive comparison table with purchase links
+- **top**: Real-time product search interface  
+- **bottow**: Interactive comparison table with purchase links
 </details>
 
 
