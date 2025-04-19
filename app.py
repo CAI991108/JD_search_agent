@@ -60,7 +60,7 @@ local_addresses = ["localhost", "127.0.0.1", "0.0.0.0", "::1"]
 os.environ["NO_PROXY"] = ",".join(local_addresses)
 os.environ["no_proxy"] = os.environ["NO_PROXY"]
 
-secret_value_0 = "AIzaSyCflxe_m2lECT4D0L5IoIgsXzIjyv2YJn8"
+secret_value_0 = <your_GOOGLE_API_KEY_here>
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", google_api_key=secret_value_0)
 
